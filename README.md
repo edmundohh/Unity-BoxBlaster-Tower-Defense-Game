@@ -1,5 +1,5 @@
 # BoxBlaster
-BoxBlaster is a Unity tower defense game with the goal of defending your territory from box enemies by constructing BoxBlaster Towers.
+BoxBlaster is a tower defense game made with Unity.
 
 ## Game Screens
 All sprites and animations were made using Adobe Photoshop.
@@ -9,4 +9,4 @@ All sprites and animations were made using Adobe Photoshop.
 <img src="./GameScreens/gameover.png" width="600"/>
 
 ## Next Steps
-The next steps for BoxBlaster is implementing an in-game currency system and adding more elusive towers.
+The next steps for BoxBlaster would be an implementation of an in-game currency system and adding more elusive towers.
